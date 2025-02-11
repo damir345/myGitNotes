@@ -11,4 +11,6 @@ Sprint 3 on Yandex Practicum
 
 'git branch' will show the branch you're currently at
 
+'git checkout' changes the current branch to the specified
+
 a **branch** is a sequence of commits
