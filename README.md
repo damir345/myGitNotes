@@ -5,7 +5,7 @@ Sprint 3 on Yandex Practicum
 
 'git add' will add files to staging mode
 
-'git commit' will stag files for the future commit
+'git commit' will stage files for the future commit
 
 'git push' will upload files on the GitHub to the selected **branch**
 
