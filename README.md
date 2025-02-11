@@ -10,3 +10,5 @@ Sprint 3 on Yandex Practicum
 'git push' will upload files on the GitHub to the selected **branch**
 
 'git branch' will show the branch you're currently at
+
+a **branch** is a sequence of commits
