@@ -1,4 +1,4 @@
-# FirstPublicRepo
+# myGitNotes
 Sprint 3 on Yandex Practicum
 
 'git clone' <url> will copy the existing GitHub repository to local files
