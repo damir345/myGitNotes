@@ -14,3 +14,8 @@ Sprint 3 on Yandex Practicum
 'git checkout' changes the current branch to the specified
 
 a **branch** is a sequence of commits
+
+изучили новые команды:
+git branch — для просмотра новых веток;
+git checkout — для переключения между ветками;
+git merge — для слияния одной ветки в другую. Помните, что нужно быть в ветке, в которую вы хотите принять изменения.
